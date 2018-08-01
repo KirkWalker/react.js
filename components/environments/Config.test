@@ -1,0 +1,2 @@
+const api_url = "https://members.lode.tech/api/v1/"
+export default api_url;
